@@ -1,3 +1,3 @@
 # austra-sokolade
-Wordpress internship project 
+WP project 
 http://austra-sokolade.epizy.com/
