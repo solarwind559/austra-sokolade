@@ -1,0 +1,1 @@
+<div class="title" style="background-image: url(<?php the_field('background_image');?>);"><h1><?php the_field('title');?></h1></div>
